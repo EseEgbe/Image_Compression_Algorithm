@@ -13,15 +13,15 @@ The image compression algorithm decreases the size and pixel counts while preser
 ## Demonstration
 The compression ratio indicates how many times the original image is compressed.
 #### "Image - 3.01 mb"
-![](https://github.com/EseEgbe/Image_Compression) 
+![](https://github.com/EseEgbe/Image_Compression_Algorithm/blob/main/image/IMG_001.jpg) 
 #### "Compressed Image - 2.15 mb"
-![](https://github.com/EseEgbe/Image_Compression)
+![](https://github.com/EseEgbe/Image_Compression_Algorithm/blob/main/image/IMG_001_compressed.jpg)
 #### Compression Ratio: 1.4 Times
 
 #### "Image - 4.41 mb"
-![](https://github.com/EseEgbe/Image_Compression) 
+![](https://github.com/EseEgbe/Image_Compression_Algorithm/blob/main/image/IMG_002.jpg) 
 #### "Compressed Image - 3.06 mb"
-![](https://github.com/EseEgbe/Image_Compression)
+![](https://github.com/EseEgbe/Image_Compression_Algorithm/blob/main/image/IMG_002_compressed.jpg)
 #### Compression Ratio: 1.44 Times
 
 ## Files
@@ -35,7 +35,7 @@ The compression ratio indicates how many times the original image is compressed.
 
 ## Implementation
 ### To Use:
-* git clone https://github.com/EseEgbe/Image_Compression
+* git clone https://github.com/EseEgbe/Image_Compression_Algorithm.git
 * cd Image_Compression_Algorithm
 * pip install -r requirements.txt
 
